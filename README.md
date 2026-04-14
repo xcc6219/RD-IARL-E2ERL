@@ -141,7 +141,7 @@ RD-IARL-E2ERL/
 | Dependency | Version | Notes |
 |---|---|---|
 | **CARLA Simulator** | 0.9.10 – 0.9.15 | Must be running before launching the script |
-| **Python** | 3.7+ | Tested with 3.8 |
+| **Python** | 3.7+ | Tested with 3.7 |
 | **PyTorch** | 1.10+ | CUDA recommended |
 | **NumPy** | < 2.0 | Recommended: `1.26.4` |
 | **OpenCV** | 4.x | `opencv-python` |
